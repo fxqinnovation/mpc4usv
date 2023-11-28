@@ -4,6 +4,7 @@
 
 
 如果您将本项目用于学术研究，请将本文作为参考文献：
+
 陈国权,李裕钦,杨神化.基于MPC的USV自主航行仿真研究[J].舰船科学技术, 2023, 45(1):83-89.
 
 
@@ -14,4 +15,5 @@ Research on the simulation of USV autonomous navigation based on MPC
 
 
 If you use this project to conduct research, we ask that you cite the following paper as a reference:
+
 G. Chen, Y. Li, S. Yang, "Research on the simulation of USV autonomous navigation based on MPC," Ship Science and Technology, vol. 45, no. 1, pp. 83-89.
