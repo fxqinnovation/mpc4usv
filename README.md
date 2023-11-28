@@ -11,3 +11,4 @@ np = 24, ns = 2,    1e-6、 1e-6、  1e-6
 藤井模型船舶领域
 
 np = 24, ns = 2,    1e-7、 1e-7、  1e-7
+[![Downloads](https://img.shields.io/github/downloads/fxqinnovation/dock_doc/total.svg)](https://github.com/fxqinnovation/dock_doc/releases)
